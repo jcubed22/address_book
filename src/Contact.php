@@ -57,4 +57,5 @@ class Contact
         array_push($_SESSION['list_of_contacts'], $this);
     }
 }
+
 ?>
