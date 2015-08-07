@@ -19,7 +19,7 @@ PHP, Silex micro-framework, Twig templates.
 
 ### Legal
 
-Copyright (c) 2015 **_{List of contribtors}_**
+Copyright (c) 2015 J^3
 
 This software is licensed under the MIT license.
 
